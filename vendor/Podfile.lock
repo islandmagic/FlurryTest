@@ -1,24 +1,18 @@
 PODS:
-  - CocoaLumberjack (3.8.0):
-    - CocoaLumberjack/Core (= 3.8.0)
-  - CocoaLumberjack/Core (3.8.0)
   - Flurry-iOS-SDK/CrashReporter (12.3.1)
   - Flurry-iOS-SDK/FlurrySDK (12.3.1):
     - Flurry-iOS-SDK/CrashReporter
 
 DEPENDENCIES:
-  - CocoaLumberjack
   - Flurry-iOS-SDK/FlurrySDK
 
 SPEC REPOS:
   trunk:
-    - CocoaLumberjack
     - Flurry-iOS-SDK
 
 SPEC CHECKSUMS:
-  CocoaLumberjack: 78abfb691154e2a9df8ded4350d504ee19d90732
   Flurry-iOS-SDK: 6f2b93d8fe44fe3b976f5e084599428d814bd40d
 
-PODFILE CHECKSUM: 22aed9b2918a6f6d531790ee4002a73d9c47c0c2
+PODFILE CHECKSUM: 0817edd31bc70a29d214bd8d9a70ed0fde4eaa64
 
 COCOAPODS: 1.10.0
